@@ -6393,5 +6393,3 @@ const stores = [
     slug: 'hollywood-vine-6290-west-hollywood-blvd-hollywood-ca-900285309-us'
   }
 ];
-
-export default stores;
